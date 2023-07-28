@@ -5,8 +5,8 @@
 #include <ESP8266WiFi.h> 
 #include <ESP8266WebServer.h>
 
-char ssid[] = "ktEgg_28f2";       //와이파이 SSID
-char pass[] = "info76018";   //와이파이 password 
+char ssid[] = "";       //와이파이 SSID
+char pass[] = "";   //와이파이 password 
 String location = "Daejeon"; //날씨정보를 보고싶은 지역
 
 //인스턴스 변수 초기화
