@@ -11,8 +11,8 @@
 //#define NUMPIXELS 1
 //#define PIN A0
 
-const char* ssid ="ktEgg_28f2";// "ktEgg_28f2";
-const char* password = "info76018";//"info76018";
+const char* ssid ="";// wifi ssid;
+const char* password = "";// wifi password;
 String location = "Daejeon"; //날씨정보를 보고싶은 지역
 
 IPAddress hostIp;
